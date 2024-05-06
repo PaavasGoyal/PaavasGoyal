@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PaavasGoyal
 - 👀 I’m interested in learning new and useful skills
-- 🌱 I’m currently learning Python and 
-- 💞️ I’m looking to collaborate on learning C++
+- 🌱 Python proficient 
+- 💞️ I’m looking to collaborate on learning advanced UI and UX.
 - 📫 How to reach me my Instagram @yeetogami
 
 <!---
